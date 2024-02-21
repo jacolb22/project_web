@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "reports/presentations.html",
+    "href": "reports/presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slide deck\n\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "reports/presentations.html#latest-presentations",
+    "href": "reports/presentations.html#latest-presentations",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slide deck\n\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "reports/prospectus.html",
+    "href": "reports/prospectus.html",
+    "title": "Prospectus",
+    "section": "",
+    "text": "This section introduces the topic of the prospectus, its relevance, and specific research question(s) or hypothesis(es) that will be addressed.\n\n\nThis section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address."
+  },
+  {
+    "objectID": "reports/prospectus.html#literature-review",
+    "href": "reports/prospectus.html#literature-review",
+    "title": "Prospectus",
+    "section": "",
+    "text": "This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address."
+  },
+  {
+    "objectID": "reports/prospectus.html#data-preparation",
+    "href": "reports/prospectus.html#data-preparation",
+    "title": "Prospectus",
+    "section": "Data preparation",
+    "text": "Data preparation\nThis section describes the process of acquiring, organizing, and enriching the data that will be used to address the research question or hypothesis. It should include a detailed description of the data sources, the process of collecting and cleaning the data, and any additional data enrichment steps that will be taken to prepare the data for analysis."
+  },
+  {
+    "objectID": "reports/prospectus.html#data-analysis",
+    "href": "reports/prospectus.html#data-analysis",
+    "title": "Prospectus",
+    "section": "Data analysis",
+    "text": "Data analysis\nThis section describes the feature selection and engineering, analysis techniques, and evaluation process that will be used to address the research question or hypothesis. It should include a detailed description of the features that will be used in the analysis, the specific analysis techniques that will be applied, and the process of evaluating the results."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "README",
+    "section": "",
+    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings."
+  },
+  {
+    "objectID": "index.html#project-title",
+    "href": "index.html#project-title",
+    "title": "README",
+    "section": "",
+    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings."
+  },
+  {
+    "objectID": "index.html#reproduce",
+    "href": "index.html#reproduce",
+    "title": "README",
+    "section": "Reproduce",
+    "text": "Reproduce\n\nInclude a step-by-step guide to reproduce your project here. This should include a list of dependencies and instructions on how to run the project."
+  },
+  {
+    "objectID": "reports/slides/example.html#references",
+    "href": "reports/slides/example.html#references",
+    "title": "My Presentation",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\nWickham, Hadley, Romain François, Lionel Henry, Kirill Müller, and Davis Vaughan. 2023. Dplyr: A Grammar of Data Manipulation. https://CRAN.R-project.org/package=dplyr."
+  },
+  {
+    "objectID": "reports/article.html#data",
+    "href": "reports/article.html#data",
+    "title": "Article",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "reports/article.html#analysis",
+    "href": "reports/article.html#analysis",
+    "title": "Article",
+    "section": "Analysis",
+    "text": "Analysis"
+  }
+]
