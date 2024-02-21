@@ -1,5 +1,5 @@
 project:
-  title: "Web project" # Project title
+  title: "Prospectus" # Project title
   type: website
   output-dir: _site/ # Website directory
 
@@ -26,7 +26,7 @@ website:
 
 format:
   html:
-    theme: cosmo # Bootstrap theme for the site
+    theme: flatly # Bootstrap theme for the site
     toc: true # Enable table of contents
 
 execute:
