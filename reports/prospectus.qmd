@@ -47,7 +47,6 @@ The research gap that I have identified regards the scope of the research in que
 
 ### Assessing progress
 
-
 # Methods
 
 This section describes the data preparation and analysis methods that will be used to address the research question or hypothesis. It should include a detailed description of the data acquisition, data organization, and data enrichment process, as well as the feature selection and engineering, analysis techniques, and evaluation process.
