@@ -1,86 +1,127 @@
 [
   {
-    "objectID": "reports/presentations.html",
-    "href": "reports/presentations.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "Slide deck\n\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "reports/presentations.html#latest-presentations",
-    "href": "reports/presentations.html#latest-presentations",
-    "title": "Presentations",
-    "section": "",
-    "text": "Slide deck\n\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "reports/prospectus.html",
-    "href": "reports/prospectus.html",
-    "title": "Prospectus",
-    "section": "",
-    "text": "This section introduces the topic of the prospectus, its relevance, and specific research question(s) or hypothesis(es) that will be addressed.\n\n\nThis section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address."
-  },
-  {
-    "objectID": "reports/prospectus.html#literature-review",
-    "href": "reports/prospectus.html#literature-review",
-    "title": "Prospectus",
-    "section": "",
-    "text": "This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address."
-  },
-  {
-    "objectID": "reports/prospectus.html#data-preparation",
-    "href": "reports/prospectus.html#data-preparation",
-    "title": "Prospectus",
-    "section": "Data preparation",
-    "text": "Data preparation\nThis section describes the process of acquiring, organizing, and enriching the data that will be used to address the research question or hypothesis. It should include a detailed description of the data sources, the process of collecting and cleaning the data, and any additional data enrichment steps that will be taken to prepare the data for analysis."
-  },
-  {
-    "objectID": "reports/prospectus.html#data-analysis",
-    "href": "reports/prospectus.html#data-analysis",
-    "title": "Prospectus",
-    "section": "Data analysis",
-    "text": "Data analysis\nThis section describes the feature selection and engineering, analysis techniques, and evaluation process that will be used to address the research question or hypothesis. It should include a detailed description of the features that will be used in the analysis, the specific analysis techniques that will be applied, and the process of evaluating the results."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "README",
-    "section": "",
-    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings."
-  },
-  {
-    "objectID": "index.html#project-title",
-    "href": "index.html#project-title",
-    "title": "README",
-    "section": "",
-    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings."
-  },
-  {
-    "objectID": "index.html#reproduce",
-    "href": "index.html#reproduce",
-    "title": "README",
-    "section": "Reproduce",
-    "text": "Reproduce\n\nInclude a step-by-step guide to reproduce your project here. This should include a list of dependencies and instructions on how to run the project."
-  },
-  {
-    "objectID": "reports/slides/example.html#references",
-    "href": "reports/slides/example.html#references",
-    "title": "My Presentation",
-    "section": "References",
-    "text": "References\n\n\n\n\n\n\nWickham, Hadley, Romain François, Lionel Henry, Kirill Müller, and Davis Vaughan. 2023. Dplyr: A Grammar of Data Manipulation. https://CRAN.R-project.org/package=dplyr."
-  },
-  {
     "objectID": "reports/article.html#data",
     "href": "reports/article.html#data",
     "title": "Article",
     "section": "Data",
-    "text": "Data"
+    "text": "Data",
+    "crumbs": [
+      "Reports",
+      "Article"
+    ]
   },
   {
     "objectID": "reports/article.html#analysis",
     "href": "reports/article.html#analysis",
     "title": "Article",
     "section": "Analysis",
-    "text": "Analysis"
+    "text": "Analysis",
+    "crumbs": [
+      "Reports",
+      "Article"
+    ]
+  },
+  {
+    "objectID": "reports/prospectus.html",
+    "href": "reports/prospectus.html",
+    "title": "Prospectus",
+    "section": "",
+    "text": "This section introduces the topic of the prospectus, its relevance, and specific research question(s) or hypothesis(es) that will be addressed.\n\n\n\n\nThe aim of the first study: “Intensificatory Tautology in the History of English: A Corpus-based Study” by Victorina González-Díaz is exploratory in nature, and concerns the development and establishment of “intensificatory tautology” which is simply intensifying the current meaning of a phrase or sentence without adding any more meaning. It focuses specifically on size-adjective clusters (phrases like “great big” and “little tiny”) in the history of the English language. The findings of this study indicate that size-adjective clusters emerged in Late Middle English after a functional-structural reorganization of noun phrases. This became more productive in Early Modern English, and expanded in Present-Day English, especially in informal and spoken settings. This study used many corpora including: the PENN collection, the ARCHER corpus, the British National Corpus (BNC), the Early English Books Online (EEBO) corpus, Mandeville’s travels, and Celia Fiennes’ travelogue. The analyzing methodology was corpus-based, and used part of speech-tagged text as well as a general search for two consecutive adjectives to prune the data to a manageable level, and the rest was manually sorted through. The study also used statistical methods such as MI scores and T-tests. There is a research gap, even mentioned in the study itself, regarding how collocation interacts with word-formation processes, especially in this context. This study explains the what and where, but being exploratory in nature, it does not mention the why.\n\n\n\nThe aim of the study “Internal and External Dynamics in Language: Evidence from Verb Regularity in a Historical Corpus of English” is to investigate the relationship between internal and external factors affecting the evolution of rules and exceptions in language, specifically focusing on the how regular the past tense verbs in American English are. The main findings of the study indicate that although the language has a continuous influx of new verbs, the overall amount of irregularity in the language remains relatively constant over time. The study used the Corpus of Historical American English (CoHA), which contains a balanced variety of written genres and more than 330 million words from the 1830–1989 period, each tagged for part of speech. The analysis approach involved a quantitative examination of factors contributing to language change, focusing on the effects of verb birth and death, as well as the regularizing or irregularizing of existing words. The study also used statistical methods to analyze the data, including the proportion of irregularity as the number of irregular past tense tokens over the total number of past tense tokens, and frequency-rank plots for different verb types in all decades. There is a research gap in that the study does not mention how certain words may change regularity over time, and whether certain words are more “volatile” than others.\n\n\n\nThe aim of the study “Outdooring the Historical Corpus of English in Ghana” by Thorsten Brato is to compile a historical corpus of Ghanaian English (GhE) and to illustrate in real time how GhE has developed over its nativization phase. The main findings of the study indicate that GhE has been influenced by factors including: demographics, migration patterns, and language attitudes, leading to deviations from the developmental path suggested in the Dynamic Mode (I will not go into depth about the Dynamic Mode here, for more information, see the original study) . The study used the Historical Corpus of English in Ghana (HiCE Ghana), a 600,000-word corpus of GhE from the period 1966–1975, and compared it with the written-printed sections of the Ghanaian component of ICE (another corpus of GhE) to uncover how GhE has changed over the last two generations. The analysis approach involved a real-time comparison of empirical data and proposed adaptations where necessary. The study also used statistical methods to analyze the data, such as comparing data from ICE corpora of varieties which have progressed to different phases and taking an apparent-time approach to test developments within one variety. The findings contribute to a nuanced understanding of the linguistic landscape in Ghana. There is a research gap in that the study does not include other postcolonial Englishes, which would help to compare the GhE findings against other similar Englishes, to see if they are consistent to other observed changes.",
+    "crumbs": [
+      "Reports",
+      "Prospectus"
+    ]
+  },
+  {
+    "objectID": "reports/prospectus.html#literature-review",
+    "href": "reports/prospectus.html#literature-review",
+    "title": "Prospectus",
+    "section": "",
+    "text": "The aim of the first study: “Intensificatory Tautology in the History of English: A Corpus-based Study” by Victorina González-Díaz is exploratory in nature, and concerns the development and establishment of “intensificatory tautology” which is simply intensifying the current meaning of a phrase or sentence without adding any more meaning. It focuses specifically on size-adjective clusters (phrases like “great big” and “little tiny”) in the history of the English language. The findings of this study indicate that size-adjective clusters emerged in Late Middle English after a functional-structural reorganization of noun phrases. This became more productive in Early Modern English, and expanded in Present-Day English, especially in informal and spoken settings. This study used many corpora including: the PENN collection, the ARCHER corpus, the British National Corpus (BNC), the Early English Books Online (EEBO) corpus, Mandeville’s travels, and Celia Fiennes’ travelogue. The analyzing methodology was corpus-based, and used part of speech-tagged text as well as a general search for two consecutive adjectives to prune the data to a manageable level, and the rest was manually sorted through. The study also used statistical methods such as MI scores and T-tests. There is a research gap, even mentioned in the study itself, regarding how collocation interacts with word-formation processes, especially in this context. This study explains the what and where, but being exploratory in nature, it does not mention the why.\n\n\n\nThe aim of the study “Internal and External Dynamics in Language: Evidence from Verb Regularity in a Historical Corpus of English” is to investigate the relationship between internal and external factors affecting the evolution of rules and exceptions in language, specifically focusing on the how regular the past tense verbs in American English are. The main findings of the study indicate that although the language has a continuous influx of new verbs, the overall amount of irregularity in the language remains relatively constant over time. The study used the Corpus of Historical American English (CoHA), which contains a balanced variety of written genres and more than 330 million words from the 1830–1989 period, each tagged for part of speech. The analysis approach involved a quantitative examination of factors contributing to language change, focusing on the effects of verb birth and death, as well as the regularizing or irregularizing of existing words. The study also used statistical methods to analyze the data, including the proportion of irregularity as the number of irregular past tense tokens over the total number of past tense tokens, and frequency-rank plots for different verb types in all decades. There is a research gap in that the study does not mention how certain words may change regularity over time, and whether certain words are more “volatile” than others.\n\n\n\nThe aim of the study “Outdooring the Historical Corpus of English in Ghana” by Thorsten Brato is to compile a historical corpus of Ghanaian English (GhE) and to illustrate in real time how GhE has developed over its nativization phase. The main findings of the study indicate that GhE has been influenced by factors including: demographics, migration patterns, and language attitudes, leading to deviations from the developmental path suggested in the Dynamic Mode (I will not go into depth about the Dynamic Mode here, for more information, see the original study) . The study used the Historical Corpus of English in Ghana (HiCE Ghana), a 600,000-word corpus of GhE from the period 1966–1975, and compared it with the written-printed sections of the Ghanaian component of ICE (another corpus of GhE) to uncover how GhE has changed over the last two generations. The analysis approach involved a real-time comparison of empirical data and proposed adaptations where necessary. The study also used statistical methods to analyze the data, such as comparing data from ICE corpora of varieties which have progressed to different phases and taking an apparent-time approach to test developments within one variety. The findings contribute to a nuanced understanding of the linguistic landscape in Ghana. There is a research gap in that the study does not include other postcolonial Englishes, which would help to compare the GhE findings against other similar Englishes, to see if they are consistent to other observed changes.",
+    "crumbs": [
+      "Reports",
+      "Prospectus"
+    ]
+  },
+  {
+    "objectID": "reports/prospectus.html#data-preparation",
+    "href": "reports/prospectus.html#data-preparation",
+    "title": "Prospectus",
+    "section": "Data preparation",
+    "text": "Data preparation\nThis section describes the process of acquiring, organizing, and enriching the data that will be used to address the research question or hypothesis. It should include a detailed description of the data sources, the process of collecting and cleaning the data, and any additional data enrichment steps that will be taken to prepare the data for analysis.",
+    "crumbs": [
+      "Reports",
+      "Prospectus"
+    ]
+  },
+  {
+    "objectID": "reports/prospectus.html#data-analysis",
+    "href": "reports/prospectus.html#data-analysis",
+    "title": "Prospectus",
+    "section": "Data analysis",
+    "text": "Data analysis\nThis section describes the feature selection and engineering, analysis techniques, and evaluation process that will be used to address the research question or hypothesis. It should include a detailed description of the features that will be used in the analysis, the specific analysis techniques that will be applied, and the process of evaluating the results.",
+    "crumbs": [
+      "Reports",
+      "Prospectus"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "README",
+    "section": "",
+    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings.",
+    "crumbs": [
+      "README"
+    ]
+  },
+  {
+    "objectID": "index.html#project-title",
+    "href": "index.html#project-title",
+    "title": "README",
+    "section": "",
+    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings.",
+    "crumbs": [
+      "README"
+    ]
+  },
+  {
+    "objectID": "index.html#reproduce",
+    "href": "index.html#reproduce",
+    "title": "README",
+    "section": "Reproduce",
+    "text": "Reproduce\n\nInclude a step-by-step guide to reproduce your project here. This should include a list of dependencies and instructions on how to run the project.",
+    "crumbs": [
+      "README"
+    ]
+  },
+  {
+    "objectID": "reports/presentations.html",
+    "href": "reports/presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Reports",
+      "Presentations"
+    ]
+  },
+  {
+    "objectID": "reports/presentations.html#latest-presentations",
+    "href": "reports/presentations.html#latest-presentations",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Reports",
+      "Presentations"
+    ]
+  },
+  {
+    "objectID": "reports/slides/example.html#references",
+    "href": "reports/slides/example.html#references",
+    "title": "My Presentation",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\nWickham, Hadley, Romain François, Lionel Henry, Kirill Müller, and Davis Vaughan. 2023. Dplyr: A Grammar of Data Manipulation. https://CRAN.R-project.org/package=dplyr."
   }
 ]
