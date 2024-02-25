@@ -26,7 +26,7 @@ website:
 
 format:
   html:
-    theme: flatly # Bootstrap theme for the site
+    theme: darkly # Bootstrap theme for the site
     toc: true # Enable table of contents
 
 execute:
