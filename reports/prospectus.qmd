@@ -71,15 +71,42 @@ Without direct access to these datasets at this time, it is impossible to know e
 In this project step, I learned to think about what I would actually want in my dataset, even before finding it. Before doing this step, I had imagined that the opposite process was true, adapting a dataset to fit your needs, but really, it helps much more to think about the perfect dataset, and then finding something close to it. Most challenging was the misalignment section, simply because it was very speculative, because I don't have access to the data I would need. I do have a question on whether or not it is necessary to have direct access to this data to move on with this project. I'm fairly certain I could gain access, it just may take some time. I would need to address this to move forward.
 
 My interests have evolved slightly since taking on this project. Originally I wasn't sure what to do, but I had a few ideas, including the following in my notes:
-- geographical boundaries of dialect vs languages
-- age of borders / national identity vs sharpness of boundaries of languages
-- head trauma vs enunciation of words
+- geographical boundaries of dialect vs. languages
+- age of borders / national identity vs. sharpness of boundaries of languages
+- head trauma vs. enunciation of words
 - foreign word use through history compared to origin language
 My final bullet point does have something to do with this prospectus, and my interests have kept up with the direction of this project. My research question has remained largely the same, however, I realize how difficult it would be to keep the scope of this prospective study so large. It may be more wieldy to focus the scope on just West Africa, as a more direct logical step from the previous literature. Depending on the ease of obtaining data, the scope would change. Overall, from reading and witnessing in class how much it takes to get POS tags or to do data preparation, even before any analyzing happens, I understand why it is so difficult to do a study on a large scope. 
 
 ## Data analysis
 
-This section describes the feature selection and engineering, analysis techniques, and evaluation process that will be used to address the research question or hypothesis. It should include a detailed description of the features that will be used in the analysis, the specific analysis techniques that will be applied, and the process of evaluating the results.
+nature of problem? gap in lit, new methodological approach, new application of existing methods
+
+which type of analysis
+what type of goals do i have vs type
+
+methods of analysis within analysis type
+key vars or features to employ in analysis
+what methods make sense
+
+### Analysis Plan
+
+to put it simply,
+which analysis type will I use
+which key vars
+which method
+
+### Assessing Progress
+
+what did i learn
+what did i find challenging
+resources
+questions concerned
+need to address to move forward
+
+conside how prospectus is shaping up:
+how have interests evolved
+how have your research questions & objectives evolved
+how have these changes been influence by literature or course knowledge
 
 # Expected results
 
