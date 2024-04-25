@@ -370,22 +370,46 @@ question I am asking, "do postcolonial languages develop new words at
 the same rate, or does the country's independence either slow or hasten
 the divergence of postcolonial language?", and thus I need to either
 find evidence that supports this conclusion or does not support this
-conclusion. I hope to find a result in this data, usually called a p-value, that is above a certain threshold, and if it is above this threshold it is not statistically significant, and if it is below this threshold then it is statistically significant. Putting this in statistical terms, this process is called a hypothesis test. A typical p-value is 0.05, and for these purposes I believe it would be acceptable to define our threshold as such. 
+conclusion. I hope to find a result in this data, usually called a
+p-value, that is above a certain threshold, and if it is above this
+threshold it is not statistically significant, and if it is below this
+threshold then it is statistically significant. Putting this in
+statistical terms, this process is called a hypothesis test. A typical
+p-value is 0.05, and for these purposes I believe it would be acceptable
+to define our threshold as such.
 
 ### Analysis Plan
 
-In this research study, it would be advantageous to use simulation-based null hypothesis significance testing, as it is based on empirical data, which we are assuming we have, and does not require any assumptions about the data. This is beneficial because we would rather not assume something that is incorrect and jeopardize the efficacy of the whole study, and would rather simply check what we can about our data. Additionally, it is much easier to communicate later, especially to non-statisticians. To be more specific, I would use a bivariate correlation statistical test, as the explanatory variable: the date of independence, is numerical (number of years) so it can be compared against a numerical response variable: the number of neologisms present in the language as compared to American English, or the english of the colonizing country.
+In this research study, it would be advantageous to use simulation-based
+null hypothesis significance testing, as it is based on empirical data,
+which we are assuming we have, and does not require any assumptions
+about the data. This is beneficial because we would rather not assume
+something that is incorrect and jeopardize the efficacy of the whole
+study, and would rather simply check what we can about our data.
+Additionally, it is much easier to communicate later, especially to
+non-statisticians. To be more specific, I would use a bivariate
+correlation statistical test, as the explanatory variable: the date of
+independence, is numerical (number of years) so it can be compared
+against a numerical response variable: the number of neologisms present
+in the language as compared to American English, or the english of the
+colonizing country.
 
-Finding the number of neologisms, however, is another process that needs to be defined and completed before a hypothesis can be tested. This process would need to compile the words in a corpus and perform some level of frequency analysis on them. This would then be plotted against time, as in the level of usage over time, and if growth is above a certain threshold, as well as having certain other factors, i.e. being a content word, having a higher frequency than its baseline frequency, etc. This process would be largely automated, but still verified to ensure it would be reliable. These neologisms can be counted, year by year to get our number to be tested for correlation against date of independence. 
+Finding the number of neologisms, however, is another process that needs
+to be defined and completed before a hypothesis can be tested. This
+process would need to compile the words in a corpus and perform some
+level of frequency analysis on them. This would then be plotted against
+time, as in the level of usage over time, and if growth is above a
+certain threshold, as well as having certain other factors, i.e. being a
+content word, having a higher frequency than its baseline frequency,
+etc. This process would be largely automated, but still verified to
+ensure it would be reliable. These neologisms can be counted, year by
+year to get our number to be tested for correlation against date of
+independence.
 
 ### Assessing Progress
 
-what did i learn what did i find challenging resources questions
-concerned need to address to move forward
-
-conside how prospectus is shaping up: how have interests evolved how
-have your research questions & objectives evolved how have these changes
-been influence by literature or course knowledge
+I learned how to define a plan for data analysis in practice, and how to execute that plan in theory. I also, frankly learned about hypothesis tests since it had been a while since I had reviewed them in depth. This was likely the most challenging part: defining exactly what I want to do before I do it. I typically take a very hands on approach to programming, and this is simply a more theoretical approach to programming, so this was relatively difficult for me. I do not think I need to address much to move forward, I believe I have a good conceptual grasp on where I am and where I need to be in the coming days. 
+My interests, since last time have evolved only slightly, I have come to the realization that my scope was still too large, so narrowing it down to only encompass North African Englishes seems like a decent compromise between granularity and scope. My research question hasn't changed since last step, but the way I could directly answer it is now much more clear, due to the slides in class, and the readings outside of it. This step has probably been the most enlightening to me in this respect.
 
 # Expected results
 
