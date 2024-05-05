@@ -408,8 +408,22 @@ independence.
 
 ### Assessing Progress
 
-I learned how to define a plan for data analysis in practice, and how to execute that plan in theory. I also, frankly learned about hypothesis tests since it had been a while since I had reviewed them in depth. This was likely the most challenging part: defining exactly what I want to do before I do it. I typically take a very hands on approach to programming, and this is simply a more theoretical approach to programming, so this was relatively difficult for me. I do not think I need to address much to move forward, I believe I have a good conceptual grasp on where I am and where I need to be in the coming days. 
-My interests, since last time have evolved only slightly, I have come to the realization that my scope was still too large, so narrowing it down to only encompass North African Englishes seems like a decent compromise between granularity and scope. My research question hasn't changed since last step, but the way I could directly answer it is now much more clear, due to the slides in class, and the readings outside of it. This step has probably been the most enlightening to me in this respect.
+I learned how to define a plan for data analysis in practice, and how to
+execute that plan in theory. I also, frankly learned about hypothesis
+tests since it had been a while since I had reviewed them in depth. This
+was likely the most challenging part: defining exactly what I want to do
+before I do it. I typically take a very hands on approach to
+programming, and this is simply a more theoretical approach to
+programming, so this was relatively difficult for me. I do not think I
+need to address much to move forward, I believe I have a good conceptual
+grasp on where I am and where I need to be in the coming days. My
+interests, since last time have evolved only slightly, I have come to
+the realization that my scope was still too large, so narrowing it down
+to only encompass North African Englishes seems like a decent compromise
+between granularity and scope. My research question hasn't changed since
+last step, but the way I could directly answer it is now much more
+clear, due to the slides in class, and the readings outside of it. This
+step has probably been the most enlightening to me in this respect.
 
 # Expected results
 
@@ -453,7 +467,59 @@ the audience, as they have a similar education level to myself, so there
 is a hope that we can put our heads together, and help make this
 prospectus even more valuable.
 
-The presentation outline can go as follows: first, a literature review section, talking about Ghanian English Nativization. I want to note the main findings of the study, and why it is important to my case, as well as the research gap that I had found in this study. After this, I can move onto my research question. I can talk about how I came up with this question, and where it came from, and then list the actual question in full. I can then talk about the data preparation. This section may be short because I don't actually have data, but I can talk about where I could get it from, and some things about the potentially available data, as well as the ideal data I would like. Finally, I can talk about how I would analyze this data: looking for correlation between the explanatory variable of the time since independence versus the dependent variable of the rates of neologisms. I can talk about which test I would use, as I am looking for correlation. I can also quickly describe what type of research this is: exploratory, inferential or predictive. I will probably include pictures, just to make sure the reader's attention is at least somewhat on the screen, but they are not the focus of this presentation. 
+The presentation outline can go as follows: first, a literature review
+section, talking about Ghanian English Nativization. I want to note the
+main findings of the study, and why it is important to my case, as well
+as the research gap that I had found in this study. After this, I can
+move onto my research question. I can talk about how I came up with this
+question, and where it came from, and then list the actual question in
+full. I can then talk about the data preparation. This section may be
+short because I don't actually have data, but I can talk about where I
+could get it from, and some things about the potentially available data,
+as well as the ideal data I would like. Finally, I can talk about how I
+would analyze this data: looking for correlation between the explanatory
+variable of the time since independence versus the dependent variable of
+the rates of neologisms. I can talk about which test I would use, as I
+am looking for correlation. I can also quickly describe what type of
+research this is: exploratory, inferential or predictive. I will
+probably include pictures, just to make sure the reader's attention is
+at least somewhat on the screen, but they are not the focus of this
+presentation.
+
+## Brainstorming prospectus revision
+
+I didn't get too much feedback from my peers, mostly just clarifying
+questions, but the instructor gave me some feedback; he talked about how
+finding neologisms and comparing their rates to other languages may by
+too much, along with the increased scope. I believe the takeaway here is
+to avoid losing too much granularity with the increase in scope.
+Overall, I will adjust some of the wording in my prospectus, perhaps,
+but there is not much I can do at this point to address this issue. My
+whole prospectus is based around this feature.
+
+I need to revise some words here and there, but this is a hard bit of
+feedback to integrate. I think I will mention it in my conclusion as a
+potential speed bump to actually enacting this prospectus, and mention
+it where I can. The scope of my research is clear, although it may be
+too broad to enact effectively. I believe though, that it is possible to
+do in practice. The hardest part is getting the data, and perhaps
+defining the neologisms. This is a far from impossible task though, and
+with the right resources, it can be done. My research question, data
+preparation strategy and analysis plan seem to be well aligned, and are
+definitely well-articulated; I have large sections of this prospectus
+describing them in detail. I surely have sufficient detail to guide my
+research. The only hiccup is getting the data.
+
+To complete my research plan, I still need to include a short paragraph
+in a few different sections: the Conclusion section, References (will
+include the studies mentioned in the lit review), the Appendix (although
+I will probably take this out considering I have nothing to put there)
+and the Introduction section. After this and a final check-over, I
+imagine my prospectus should be ready to finalize and push to github.
+
+Develop a plan for finalizing your research plan (prospectus). What
+steps do you need to take to complete your research plan? What resources
+or support do you need to finalize your research plan?
 
 # Conclusion
 
