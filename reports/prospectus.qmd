@@ -23,6 +23,18 @@ editor:
 This section introduces the topic of the prospectus, its relevance, and
 specific research question(s) or hypothesis(es) that will be addressed.
 
+The topic of this prospectus concerns rates of neologisms, or new words
+in a language, being created in postcolonial Englishes in West Africa. This is
+relevant to a number of different organizations and groups of people,
+however, the main impact I foresee is a new understanding of
+contemporary language evolution, as this prospectus could shed light
+onto new cultural contexts in postcolonial states. Additionally, this
+prospectus could inform potential policy decisions made in West African
+states regarding the preservation of indigenous culture and language.
+The research question at hand is as follows: Does the time since
+independence of the target country have a direct impact on the rates of
+neologisms present in the language?
+
 ## Literature review
 
 ### Intensificatory Tautology
@@ -177,15 +189,15 @@ but does not allow the studies to see the bigger picture. More data and
 more varied data would allow these studies or another study to compare
 phenomena between languages and contexts. This could lead to new
 understanding of language development in context, for example. My
-research question, thus, is: do postcolonial languages develop new words
-at the same rate, or does the country's independence either slow or
-hasten the divergence of postcolonial language? The objectives of this
-research would be to answer whether or not postcolonial languages are
-affected by a country's independence. The expected impact of this
-research is to expand upon the current research in this area, and to
-make connections between different languages and their divergence
-through time. Perhaps concrete stages can be developed to give a general
-guide about how postcolonial languages develop.
+research question, thus, is: do West African postcolonial Englishes
+develop new words at the same rate, or does the country's independence
+either slow or hasten the divergence of postcolonial English? The
+objectives of this research would be to answer whether or not these
+postcolonial Englishes are affected by a country's independence. The
+expected impact of this research is to expand upon the current research
+in this area, and to make connections between different languages and
+their divergence through time. Perhaps concrete stages can be developed
+to give a general guide about how postcolonial languages develop.
 
 ### Assessing progress
 
@@ -332,33 +344,33 @@ move forward.
 
 My interests have evolved slightly since taking on this project.
 Originally I wasn't sure what to do, but I had a few ideas, including
-the following in my notes: - geographical boundaries of dialect vs.
-languages - age of borders / national identity vs. sharpness of
-boundaries of languages - head trauma vs. enunciation of words - foreign
-word use through history compared to origin language My final bullet
-point does have something to do with this prospectus, and my interests
-have kept up with the direction of this project. My research question
-has remained largely the same, however, I realize how difficult it would
-be to keep the scope of this prospective study so large. It may be more
-wieldy to focus the scope on just West Africa, as a more direct logical
-step from the previous literature. Depending on the ease of obtaining
-data, the scope would change. Overall, from reading and witnessing in
-class how much it takes to get POS tags or to do data preparation, even
-before any analyzing happens, I understand why it is so difficult to do
-a study on a large scope.
+the following in my notes: geographical boundaries of dialects vs.
+languages, age of borders/national identity vs. sharpness of boundaries
+of languages, head trauma vs. the enunciation of words and, foreign word
+use through history compared to the origin language. My final potential
+interest point does have something to do with this prospectus, and my
+interests have kept up with the direction of this project. My research
+question has remained largely the same, however, I realize how difficult
+it would be to keep the scope of this prospective study so large. It may
+be more doable to focus the scope on just West Africa, as a more direct
+logical step from the previous literature. Depending on the ease of
+obtaining data, the scope would change. Overall, from reading and
+witnessing in class how much it takes to get POS tags or to do data
+preparation, even before any analyzing happens, I understand why it is
+so difficult to do a study on a large scope.
 
 ## Data analysis
 
-Why would we analyze data, though, without purpose? The purpose is as
-follows: there is a need to extend the current application of existing
-methods into new areas, making the scope of study larger to represent
-more Englishes and more people, hopefully without sacrificing too much
-granularity, as is the worry when expanding the scopes of such studies.
-The study I am expanding upon, "Outdooring the Historical Corpus of
-English in Ghana" is a very satisfactory case study on the English of
-Ghana, but it would be advantageous to expand the study to include more
-West African Englishes, to increase variation and attempt to find
-evidence to support or to dissuade a hypothesis.
+The purpose of analyzing this data is as follows: there is a need to
+extend the current application of existing methods into new areas,
+making the scope of study larger to represent more Englishes and more
+people, hopefully without sacrificing too much granularity, as is the
+worry when expanding the scopes of such studies. The study I am
+expanding upon, "Outdooring the Historical Corpus of English in Ghana"
+is a very satisfactory case study on the English of Ghana, but it would
+be advantageous to expand the study to include more West African
+Englishes, to increase variation and attempt to find evidence to support
+or to dissuade a hypothesis.
 
 Attempting to support or contradict a trend like this would be
 representative of inferential research. This means we are taking a
@@ -366,7 +378,7 @@ sample from a population, and all things being equal, the bigger the
 sample, the better. We are hoping this sample faithfully represents the
 population so that we can generalize trends present in the sample to the
 larger population as a whole. My goals are very much similar. I have a
-question I am asking, "do postcolonial languages develop new words at
+question I am asking, "do West African postcolonial languages develop new words at
 the same rate, or does the country's independence either slow or hasten
 the divergence of postcolonial language?", and thus I need to either
 find evidence that supports this conclusion or does not support this
@@ -427,16 +439,23 @@ step has probably been the most enlightening to me in this respect.
 
 # Expected results
 
-This section presents the hypothesized findings based on the research
-question and analysis methods. It should include a clear statement of
-the expected results and their potential implications for the field of
-Linguistics and language science.
+The expected results are that H0 does not explain the findings, and that
+H1 does, that is, the time since independence does have an effect on
+rates of neologisms in the countries where postcolonial Englishes are
+spoken, in West Africa. This could potentially be explained by new
+events occurring that require the introduction of new language to
+explain it, as the words used for everyday conversation, perhaps, do not
+truly encapsulate it. This could mean a lot for the field of
+linguistics. Supposing this is true, this could suggest that culturally
+significant events effect the language that we use directly. That is,
+that language is a tool that blunts over time, and needs to be sharpened
+with new words regularly.
 
 # Communication plan
 
 ## Brainstorming presentation
 
-The research question that needs to be answered is whether postcolonial
+The research question that needs to be answered is whether West African postcolonial
 Englishes have their rates of neologisms affected by the time since
 independence. This can be answered by talking about my potential data
 preparation and what I would do with that data if I had it. I can also
@@ -517,11 +536,7 @@ I will probably take this out considering I have nothing to put there)
 and the Introduction section. After this and a final check-over, I
 imagine my prospectus should be ready to finalize and push to github.
 
-Develop a plan for finalizing your research plan (prospectus). What
-steps do you need to take to complete your research plan? What resources
-or support do you need to finalize your research plan?
-
-# Assessing your progress
+## Assessing your progress
 
 I learned that communicating research is an equally-well-thought-out
 procedure compared to the rest of research. I also learned that because
@@ -551,14 +566,23 @@ potential impact on the field of Linguistics and language science. It
 should include a clear statement of the significance of the research
 question and the potential contributions of the study.
 
+Overall, this prospectus covered the importance of neologisms in
+postcolonial Englishes in Western Africa, and why the research question
+would be helpful to answer. So, do rates of neologisms change based on
+the date of independence of the country where it is spoken? We don't
+know. But we should find out. Based on what I have said above, answering
+this question could be incredibly valuable to groups trying to preserve
+language, whether this is indigenous language, or otherwise, and will
+also be valuable to people trying to learn more about their own language
+or ways of speaking. Additionally, more studies could be conducted to
+attempt to find out if it is only independence of the country that has a
+significant effect, or if other culturally significant moments also have
+an effect, assuming independence has an effect on neologisms. If it does
+not, then other culturally significant moments should still be looked
+into, to see if they do in fact, have an effect on neologisms.
+
 # References
 
 This section includes a list of sources cited in the prospectus. It
 should be formatted according to the citation style used in the field of
 Linguistics and language science.
-
-# Appendix {.appendix}
-
-This section includes any additional information that is relevant to the
-prospectus, such as data sources, code, or other supplementary
-materials.
